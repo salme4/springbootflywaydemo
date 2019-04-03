@@ -2,9 +2,4 @@
 
 Spring boot with flyway sample project
 
-M1
-
-M2
-rb1
-
-rb2
+B2
