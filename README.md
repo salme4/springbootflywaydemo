@@ -4,3 +4,4 @@ Spring boot with flyway sample project
 
 
 clean
+R1
